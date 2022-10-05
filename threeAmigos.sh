@@ -1,5 +1,7 @@
 # threeAmigos.sh take 4 command line arguments
 # All the arguments are number
+# Sums the first three arguments
+# Then compare the sum with fourth argument
 # e.g. ./threeAmigos.sh 5 5 5 4
 
 #!/bin/bash
