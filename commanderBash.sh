@@ -13,7 +13,7 @@ echo "Read LED status"
 ./led-hw5.sh status
 
 echo "Turning LED flash"
-./led-hw5.sh flash
+sudo /led-hw5.sh flash
 
 echo "Turning LED blink 3 times"
 ./led-hw5.sh blink 3
